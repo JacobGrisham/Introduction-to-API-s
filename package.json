@@ -1,0 +1,21 @@
+{
+  "name": "introtoapis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "IntroToAPIs.js",
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "i": "^0.3.6",
+    "locus": "^2.0.1",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node MovieApp.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jacob Grisham",
+  "license": "ISC"
+}
